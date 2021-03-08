@@ -18,10 +18,10 @@
 
 ```text
 💬 Programming Languages: 
-JSON                     3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-travel-accountbook       3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
