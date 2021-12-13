@@ -67,14 +67,14 @@ TBD
 
 ```text
 🐱‍💻 Projects: 
-cs431                    19 hrs 35 mins      ███████████████░░░░░░░░░░   59.93% 
-hw                       13 hrs 3 mins       ██████████░░░░░░░░░░░░░░░   39.94% 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+cs431                    19 hrs 35 mins      █████████████████░░░░░░░░   71.47% 
+hw                       7 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.39% 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 
 ```
 
 
- Last Updated on 12/12/2021
+ Last Updated on 13/12/2021
 <!--END_SECTION:waka-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGrasshopperBears&count_bg=%233D53C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
