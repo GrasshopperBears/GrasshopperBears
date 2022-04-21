@@ -68,16 +68,15 @@ TBD
 
 ```text
 🐱‍💻 Projects: 
-study_algorithm          6 hrs 55 mins       █████████████████████░░░░   84.42% 
-Unknown Project          52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.67% 
-sparcs_react_assignment_T7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61% 
-ToDoList                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36% 
-Sparcs_react_seminar_assi6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.33%
+study_algorithm          7 hrs 22 mins       ██████████████████████░░░   87.7% 
+Unknown Project          52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.4% 
+ToDoList                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.32% 
+ReactStudy               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
 
 ```
 
 
- Last Updated on 20/04/2022 18:52:55 UTC
+ Last Updated on 21/04/2022 18:57:24 UTC
 <!--END_SECTION:waka-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGrasshopperBears&count_bg=%233D53C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
