@@ -51,15 +51,15 @@ TBD
 ### My current status...
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-508%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-509%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.61% 
-🌆 Daytime    199 commits    ███████░░░░░░░░░░░░░░░░░░   27.79% 
-🌃 Evening    279 commits    █████████░░░░░░░░░░░░░░░░   38.97% 
-🌙 Night      205 commits    ███████░░░░░░░░░░░░░░░░░░   28.63%
+🌞 Morning    33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.6% 
+🌆 Daytime    199 commits    ███████░░░░░░░░░░░░░░░░░░   27.72% 
+🌃 Evening    281 commits    █████████░░░░░░░░░░░░░░░░   39.14% 
+🌙 Night      205 commits    ███████░░░░░░░░░░░░░░░░░░   28.55%
 
 ```
 
@@ -68,14 +68,14 @@ TBD
 
 ```text
 🐱‍💻 Projects: 
-study_algorithm          5 hrs 7 mins        ████████████████████████░   96.35% 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73% 
-ReactStudy               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
+study_algorithm          4 hrs 21 mins       ████████████████████████░   95.66% 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26% 
+ReactStudy               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08%
 
 ```
 
 
- Last Updated on 22/04/2022 18:55:31 UTC
+ Last Updated on 23/04/2022 18:51:06 UTC
 <!--END_SECTION:waka-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGrasshopperBears&count_bg=%233D53C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
