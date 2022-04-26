@@ -1,7 +1,5 @@
 # Welcome 어서오세요 👋
 
-![head_img](https://capsule-render.vercel.app/api?type=cylinder&color=64DB8F&height=180&text=Hi!%20I%27m%20developer_jinwoo&fontColor=DB7307&fontSize=45)
-
 ## I am Full-Stack developer, always studying and growing.
 
 - Languages:
