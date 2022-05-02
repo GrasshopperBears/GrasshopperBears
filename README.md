@@ -49,7 +49,7 @@ TBD
 ### My current status...
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-509%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-508%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -66,14 +66,15 @@ TBD
 
 ```text
 🐱‍💻 Projects: 
-KENSv3                   7 hrs 11 mins       █████████████████░░░░░░░░   69.82% 
-study_algorithm          3 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   30.16% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+KENSv3                   7 hrs 13 mins       ██████████████░░░░░░░░░░░   57.72% 
+study_algorithm          3 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.36% 
+otlplus                  1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 ```
 
 
- Last Updated on 01/05/2022 18:54:25 UTC
+ Last Updated on 02/05/2022 18:54:13 UTC
 <!--END_SECTION:waka-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGrasshopperBears&count_bg=%233D53C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
