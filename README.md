@@ -49,13 +49,13 @@ TBD
 ### My current status...
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-508%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-509%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
-🌆 Daytime    203 commits    ███████░░░░░░░░░░░░░░░░░░   28.19% 
+🌞 Morning    30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
+🌆 Daytime    205 commits    ███████░░░░░░░░░░░░░░░░░░   28.47% 
 🌃 Evening    280 commits    █████████░░░░░░░░░░░░░░░░   38.89% 
 🌙 Night      205 commits    ███████░░░░░░░░░░░░░░░░░░   28.47%
 
@@ -66,15 +66,15 @@ TBD
 
 ```text
 🐱‍💻 Projects: 
-KENSv3                   7 hrs 13 mins       ███████████████░░░░░░░░░░   63.22% 
-study_algorithm          2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   22.63% 
-otlplus                  1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.13% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+KENSv3                   9 hrs 14 mins       ███████████████░░░░░░░░░░   62.0% 
+study_algorithm          4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   27.14% 
+otlplus                  1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.83% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 ```
 
 
- Last Updated on 03/05/2022 18:56:15 UTC
+ Last Updated on 04/05/2022 18:53:47 UTC
 <!--END_SECTION:waka-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGrasshopperBears&count_bg=%233D53C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
