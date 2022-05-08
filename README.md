@@ -68,15 +68,16 @@ TBD
 
 ```text
 🐱‍💻 Projects: 
-KENSv3                   21 hrs 49 mins      ██████████████████░░░░░░░   72.79% 
-study_algorithm          6 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.57% 
-otlplus                  1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.38% 
+KENSv3                   22 hrs 23 mins      ██████████████████░░░░░░░   72.61% 
+study_algorithm          6 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.32% 
+otlplus                  1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.23% 
+algorithm_kotlin         9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5% 
 Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
 
 ```
 
 
- Last Updated on 07/05/2022 18:52:00 UTC
+ Last Updated on 08/05/2022 18:51:38 UTC
 <!--END_SECTION:waka-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGrasshopperBears&count_bg=%233D53C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
