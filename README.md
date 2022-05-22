@@ -68,16 +68,15 @@ TBD
 
 ```text
 🐱‍💻 Projects: 
-KENSv3                   7 hrs 13 mins       ██████████████░░░░░░░░░░░   59.2% 
-study_algorithm          2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.48% 
-channelio-scheduler      1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.16% 
-wearable-interface-polari52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.13% 
+KENSv3                   7 hrs 13 mins       ████████████████░░░░░░░░░   64.83% 
+study_algorithm          3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   27.32% 
+wearable-interface-polari52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.81% 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 ```
 
 
- Last Updated on 21/05/2022 18:52:44 UTC
+ Last Updated on 22/05/2022 18:53:06 UTC
 <!--END_SECTION:waka-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGrasshopperBears&count_bg=%233D53C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
