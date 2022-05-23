@@ -51,14 +51,14 @@ TBD
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-510%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-511%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning    30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.82% 
-🌆 Daytime    209 commits    ██████░░░░░░░░░░░░░░░░░░░   26.62% 
-🌃 Evening    293 commits    █████████░░░░░░░░░░░░░░░░   37.32% 
+🌆 Daytime    207 commits    ██████░░░░░░░░░░░░░░░░░░░   26.37% 
+🌃 Evening    295 commits    █████████░░░░░░░░░░░░░░░░   37.58% 
 🌙 Night      253 commits    ████████░░░░░░░░░░░░░░░░░   32.23%
 
 ```
@@ -68,15 +68,16 @@ TBD
 
 ```text
 🐱‍💻 Projects: 
-KENSv3                   7 hrs 13 mins       ████████████████░░░░░░░░░   64.83% 
-study_algorithm          3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   27.32% 
-wearable-interface-polari52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.81% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+KENSv3                   7 hrs 13 mins       ████████████░░░░░░░░░░░░░   51.36% 
+study_algorithm          4 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   33.09% 
+otlplus                  1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.33% 
+wearable-interface-polari52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.19% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 ```
 
 
- Last Updated on 22/05/2022 18:53:06 UTC
+ Last Updated on 23/05/2022 18:57:31 UTC
 <!--END_SECTION:waka-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGrasshopperBears&count_bg=%233D53C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
