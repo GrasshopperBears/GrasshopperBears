@@ -66,14 +66,13 @@ TBD
 
 ```text
 🐱‍💻 Projects: 
-wearable-interface-polari9 hrs 35 mins       ████████████████████████░   95.79% 
-Unknown Project          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.1% 
-assistant-relay          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
+wearable-interface-polari6 hrs 59 mins       ███████████████████████░░   94.46% 
+Unknown Project          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.54%
 
 ```
 
 
- Last Updated on 07/06/2022 18:46:59 UTC
+ Last Updated on 08/06/2022 18:47:51 UTC
 <!--END_SECTION:waka-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGrasshopperBears&count_bg=%233D53C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
