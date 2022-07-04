@@ -66,13 +66,16 @@ TBD
 
 ```text
 🐱‍💻 Projects: 
-study_algorithm          6 hrs 34 mins       ██████████████████░░░░░░░   73.67% 
-coding-test              2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   26.33%
+study_algorithm          6 hrs 20 mins       ██████████████████░░░░░░░   72.59% 
+coding-test              2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   26.92% 
+taxi-front               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26% 
+taxi-back                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18% 
+taxiSampleGenerator      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 ```
 
 
- Last Updated on 03/07/2022 18:46:13 UTC
+ Last Updated on 04/07/2022 18:49:28 UTC
 <!--END_SECTION:waka-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGrasshopperBears&count_bg=%233D53C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
