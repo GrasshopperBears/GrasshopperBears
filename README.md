@@ -66,13 +66,13 @@ TBD
 
 ```text
 🐱‍💻 Projects: 
-study_algorithm          6 hrs               ██████████████░░░░░░░░░░░   59.0% 
-algorithm_java           4 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   41.0%
+study_algorithm          5 hrs 39 mins       ██████████████░░░░░░░░░░░   57.54% 
+algorithm_java           4 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   42.46%
 
 ```
 
 
- Last Updated on 13/07/2022 18:48:13 UTC
+ Last Updated on 14/07/2022 18:49:06 UTC
 <!--END_SECTION:waka-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGrasshopperBears&count_bg=%233D53C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
