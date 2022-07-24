@@ -66,16 +66,16 @@ TBD
 
 ```text
 🐱‍💻 Projects: 
-study_algorithm          21 hrs 57 mins      █████████████░░░░░░░░░░░░   53.97% 
-22SamsungSWAlgorithm     14 hrs 30 mins      █████████░░░░░░░░░░░░░░░░   35.68% 
-taxi-front               4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.04% 
-taxi-back                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31% 
+study_algorithm          16 hrs 31 mins      ███████████░░░░░░░░░░░░░░   44.39% 
+22SamsungSWAlgorithm     16 hrs 29 mins      ███████████░░░░░░░░░░░░░░   44.31% 
+taxi-front               4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.97% 
+taxi-back                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33% 
 taxiSampleGenerator      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
 
- Last Updated on 23/07/2022 18:48:32 UTC
+ Last Updated on 24/07/2022 18:49:10 UTC
 <!--END_SECTION:waka-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGrasshopperBears&count_bg=%233D53C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
