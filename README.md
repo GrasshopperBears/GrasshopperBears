@@ -49,7 +49,7 @@ TBD
 ### My current status...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C566%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C569%20hrs%2043%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -66,15 +66,15 @@ TBD
 
 ```text
 🐱‍💻 Projects: 
-study_algorithm          8 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   32.61% 
-taxi-front               7 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   31.36% 
-22SamsungSWAlgorithm     7 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   31.11% 
-taxi-back                1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.92%
+22SamsungSWAlgorithm     8 hrs 48 mins       ███████████░░░░░░░░░░░░░░   44.34% 
+study_algorithm          6 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   32.24% 
+taxi-front               3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.29% 
+taxi-back                1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   5.13%
 
 ```
 
 
- Last Updated on 22/08/2022 18:49:50 UTC
+ Last Updated on 23/08/2022 18:49:55 UTC
 <!--END_SECTION:waka-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGrasshopperBears&count_bg=%233D53C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
