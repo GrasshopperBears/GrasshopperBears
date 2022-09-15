@@ -49,10 +49,33 @@ TBD
 ### My current status...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C626%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C629%20hrs%2041%20mins-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.04% 
+🌆 Daytime    241 commits    ███████░░░░░░░░░░░░░░░░░░   27.8% 
+🌃 Evening    346 commits    ██████████░░░░░░░░░░░░░░░   39.91% 
+🌙 Night      245 commits    ███████░░░░░░░░░░░░░░░░░░   28.26%
+
+```
 
 
- Last Updated on 14/09/2022 18:54:39 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+study_algorithm          3 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   33.66% 
+taxi-front               3 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   31.51% 
+sumcar-frontend          2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.83% 
+coding-test              1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.59% 
+taxiSampleGenerator      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.29%
+
+```
+
+
+ Last Updated on 15/09/2022 18:53:15 UTC
 <!--END_SECTION:waka-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGrasshopperBears&count_bg=%233D53C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
