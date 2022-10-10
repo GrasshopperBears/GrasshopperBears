@@ -49,7 +49,7 @@ TBD
 ### My current status...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C708%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C709%20hrs%2027%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -66,16 +66,16 @@ TBD
 
 ```text
 🐱‍💻 Projects: 
-coding-test              8 hrs 46 mins       ████████████░░░░░░░░░░░░░   50.65% 
-sumcar-frontend          2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.72% 
-toss-mortgage-loan       2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.41% 
-taxi-front               1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.86% 
-kaifood                  1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.99%
+coding-test              8 hrs 46 mins       ██████████████░░░░░░░░░░░   56.55% 
+toss-mortgage-loan       2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.97% 
+taxi-front               1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.89% 
+kaifood                  1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.92% 
+sumcar-frontend          1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.12%
 
 ```
 
 
- Last Updated on 09/10/2022 18:55:10 UTC
+ Last Updated on 10/10/2022 19:05:48 UTC
 <!--END_SECTION:waka-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGrasshopperBears&count_bg=%233D53C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
