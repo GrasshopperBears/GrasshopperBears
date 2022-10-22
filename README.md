@@ -66,15 +66,15 @@ TBD
 
 ```text
 🐱‍💻 Projects: 
-sumcar-frontend          6 hrs 45 mins       ████████████████░░░░░░░░░   66.01% 
-taxi-front               2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.07% 
-coding-test              47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.75% 
-study_algorithm          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17%
+sumcar-frontend          5 hrs 34 mins       ███████████████░░░░░░░░░░   63.07% 
+taxi-front               2 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   27.87% 
+coding-test              47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.97% 
+study_algorithm          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 ```
 
 
- Last Updated on 21/10/2022 19:01:15 UTC
+ Last Updated on 22/10/2022 18:56:16 UTC
 <!--END_SECTION:waka-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGrasshopperBears&count_bg=%233D53C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
