@@ -45,38 +45,8 @@ TBD
 - [로켓펀치](https://www.rocketpunch.com/@starday1234)
 - [포트폴리오](https://developerjinwoo.notion.site)
 
----
 
-### My current status...
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C731%20hrs%2027%20mins-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    39 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.06% 
-🌆 Daytime    301 commits    ███████░░░░░░░░░░░░░░░░░░   31.35% 
-🌃 Evening    364 commits    █████████░░░░░░░░░░░░░░░░   37.92% 
-🌙 Night      256 commits    ██████░░░░░░░░░░░░░░░░░░░   26.67%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-sumcar-frontend          4 hrs 6 mins        ████████████████░░░░░░░░░   66.61% 
-taxi-front               1 hr 42 mins        ███████░░░░░░░░░░░░░░░░░░   27.78% 
-taxiSampleGenerator      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.96% 
-taxi-back                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6% 
-sumcar-backend           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04%
-
-```
-
-
- Last Updated on 30/10/2022 18:51:00 UTC
 <!--END_SECTION:waka-->
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGrasshopperBears&count_bg=%233D53C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
