@@ -42,7 +42,6 @@ TBD
 ### If you are interested, please visit
 
 - [LinkedIn](https://www.linkedin.com/in/swengineer-jinwoo/?locale=en_US)
-- [로켓펀치](https://www.rocketpunch.com/@starday1234)
 - [포트폴리오](https://developerjinwoo.notion.site)
 
 
